@@ -151,10 +151,20 @@ this.attackXY(50,50);
 //I felt like the Break the Prison was most difficult exercise but still not too bad. I thought it was interesting
 //that you could put the amount of times you need to move within the parenthesis (example: this.moveDown(2) ). It
 //doesn't work that way and I found out why when I did more research (see below). I thought the game was well done.
+//I thought that the pseudocode was a little tedious.
  
  
- 
- 
+ //Questions answered
+//  What is 'this' referring to? Think programming-wise rather than in the terms of the game.
+// 'This' apparently used to only refer to an object but with recent updates it can have any value specifically 
+//in functions. It is never static.
+// What does the () do in JavaScript?
+// They call the function and can also add parameters to function brackets. They are not always empty but always 
+//necessary.
+// What is the point of the semicolons?
+// Semicolons in JavaScript are used to separate statements. Sometimes they are optional but always a good habit. 
+//They are required when two statements are on one line. You don't use semicolons after curly brackets (of course there are exceptions such as assignment statements).
+
  
  
  
