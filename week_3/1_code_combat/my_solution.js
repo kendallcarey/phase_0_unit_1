@@ -165,10 +165,4 @@ this.attackXY(50,50);
 // Semicolons in JavaScript are used to separate statements. Sometimes they are optional but always a good habit. 
 //They are required when two statements are on one line. You don't use semicolons after curly brackets (of course there are exceptions such as assignment statements).
 
- 
- 
- 
- 
- 
-// Reflection:
-// Write your reflection here.
+
