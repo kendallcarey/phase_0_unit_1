@@ -46,19 +46,58 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+//creating variable adam with literal notation.
+
+var adam = {
+  name="Adam"
+};
+
+//after the first and second challenge, the tests still were false
+
+terah.push(spouse:adam);
+
+//starting to think that my terminal in node isn't running the code but just console.log(ing) it because nothing is
+//returning true or Error, next I'm entering Terah's weight change.
+
+terah.weight=125;
+
+//still nothing, I will continue on with the challenge, deleting eyeColor.
+terah.pop(eyeColor);
+
+//next creating a spouse element and adding it to adam
+
+adam.push(spouse:terah);
+
+//adding the children value to terah
+
+var children = {}
+
+terah.push(children);
+
+//adding child name Carson to children value
 
 
+terah.children.push(carson:"Carson");
 
+//another child, Carter
 
+terah.children.push(carter:"Carter");
+
+//another child
+terah.children.push(colton:"Colton");
+
+//giving adam the same children property as Terah
+
+adam.children=terah.children;
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
+// I feel unconfident in my answers especially because I wasn't able to make anything run in my terminal.
+// None of the tests showed true or error. I must be doing something wrong and I'm dying to figure it out.
+// I will continue to work on this challenge.
 // 
 // 
 
